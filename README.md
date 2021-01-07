@@ -32,8 +32,11 @@ The rest of the parameters are names for the pegs
 
 By default the number of disks is 4 and the name of the pegs is 'A','B','C'
 
+<<<<<<< HEAD
 This code will show you step by step for you to solve your puzzle
 
+=======
+>>>>>>> 889e70398dae64ed2ab89dda892358d940258297
 ## Authors
 
 * **Anderson F lima**
