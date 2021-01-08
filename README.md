@@ -15,6 +15,14 @@ These instructions will get you a copy of the project up and running on your loc
 python  ^3.8
 
 ```
+# Description
+This code has a main function "hanoi" to run this code and solve your puzzle you need to enter some parameters for the function
+The first parameter is the number of disks you will be using
+The rest of the parameters are names for the pegs
+
+By default the number of disks is 4 and the name of the pegs is 'A','B','C'
+
+This code will show you step by step for you to solve your puzzle
 
 ### Installing
 
@@ -26,13 +34,7 @@ There are no dependencies to install
 python main.py
 ```
 
-This code has a main function "hanoi" to run this code and solve your puzzle you need to enter some parameters for the function
-The first parameter is the number of disks you will be using
-The rest of the parameters are names for the pegs
-
-By default the number of disks is 4 and the name of the pegs is 'A','B','C'
-
-This code will show you step by step for you to solve your puzzle
+This command will show you the output steps to solve the tower of hanoi
 
 ## Authors
 
